@@ -95,3 +95,11 @@ The Payment Method Analysis project provides valuable insights into the relation
 ### For Dataset
 
 Dataset/DataFiles
+
+```bash
+https://drive.google.com/file/d/1RC8UPcwN9wZ2j589n6KS4Z7hW5Tq0hg5/view?usp=sharing
+```
+or 
+```bash
+https://www.kaggle.com/datasets/gauravpathak1789/yellow-tripdata-2020-01
+```
